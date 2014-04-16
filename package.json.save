@@ -1,0 +1,12 @@
+{
+	"name":"req_resp",
+	
+	"version":"0.1",
+	"author":"Ronald L",
+	"dependencies":{
+		"socket.io":"*",
+		"express":"*",
+		"jade":"*"
+	}
+}
+"node":"0.6.12",

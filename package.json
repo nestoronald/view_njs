@@ -1,0 +1,10 @@
+{
+	"name":"req_res",
+	"node":"0.6.12",
+	"author":"Ronald L",
+	"dependencies":{
+		"socket.io":"*",
+		"express":"*",
+		"jade":"*"
+	}
+}
